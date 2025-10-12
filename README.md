@@ -37,3 +37,10 @@ You can run the project on your local system for that:
              --reporter-htmlextra-export ./newman/index.html
    ## HTML Report ##
    The Report will be created in the newman folder
+
+   ## Project Structure ##
+   Phoenix Inwarranty Flow
+├─ Inwarranty-flow Collection.postman_collection.json # Collection File
+├─ QA.postman_environment.json #Environment File
+└─ testdata.csv # TestData File
+
